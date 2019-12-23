@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE project>
+<epcis:EPCISDocument xmlns:epcis="urn:epcglobal:epcis:xsd:1"
+	xmlns:p="http://www.unece.org/cefact/namespaces/StandardBusinessDocumentHeader"
+	xmlns:example="http://ns.example.com/epcis" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	creationDate="2005-07-11T11:30:47.0Z" schemaVersion="1.2">
+	<EPCISHeader>
+		<p:StandardBusinessDocumentHeader>
+		    <!-- Required -->
+			<p:HeaderVersion>1.2</p:HeaderVersion>
+			<p:Sender>
+				<p:Identifier Authority="">p:Identifier</p:Identifier>
+			</p:Sender>
+			<p:Receiver>
+				<p:Identifier Authority="">p:Identifier</p:Identifier>
+			</p:Receiver>
+			<p:DocumentIdentification>
+			    <!-- Required -->
+				<p:Standard>EPCglobal</p:Standard>
+				<!-- Required -->
+				<p:TypeVersion>1.2</p:TypeVersion>
+				<p:InstanceIdentifier>p:InstanceIdentifier</p:InstanceIdentifier>
+				<!-- Required -->
+				<p:Type>MasterData</p:Type>
+				<p:MultipleType>true</p:MultipleType>
+				<p:CreationDateAndTime>2019-11-12T12:00:00</p:CreationDateAndTime>
+			</p:DocumentIdentification>
+		</p:StandardBusinessDocumentHeader>
+		<extension>
+			<EPCISMasterData>
+				<VocabularyList>
+					<Vocabulary type="urn:gs1:epcisapp:singapore:bus:stops:info">
+						<VocabularyElementList>
+							<VocabularyElement id ="urn:epc:id:gsrn:88000264.124.13049">
+								<attribute id="urn:gs1:epcisapp:BIS:line:BusStopCode">13049</attribute>
+                                <attribute id="urn:gs1:epcisapp:BIS:line:Latitude">1.30261671321463</attribute>
+                                <attribute id="urn:gs1:epcisapp:BIS:line:Longitude">103.82045069624506</attribute>
+							</VocabularyElement>
+							<VocabularyElement id ="urn:epc:id:gsrn:88000264.124.14029">
+								<attribute id="urn:gs1:epcisapp:BIS:line:BusStopCode">14029</attribute>
+                                <attribute id="urn:gs1:epcisapp:BIS:line:Latitude">1.27247333301883</attribute>
+                                <attribute id="urn:gs1:epcisapp:BIS:line:Longitude">103.82418777803016</attribute>
+							</VocabularyElement>
+                            <VocabularyElement id ="urn:epc:id:gsrn:88000264.124.14021">
+								<attribute id="urn:gs1:epcisapp:BIS:line:BusStopCode">14021</attribute>
+                                <attribute id="urn:gs1:epcisapp:BIS:line:Latitude">1.27132972198996</attribute>
+                                <attribute id="urn:gs1:epcisapp:BIS:line:Longitude">103.82478361101728</attribute>
+							</VocabularyElement>
+						</VocabularyElementList>
+					</Vocabulary>
+				</VocabularyList>
+			</EPCISMasterData>
+		</extension>
+	</EPCISHeader>
+	<EPCISBody>
+		<EventList>
+		</EventList>
+	</EPCISBody>
+</epcis:EPCISDocument>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE project>
+<epcis:EPCISDocument xmlns:epcis="urn:epcglobal:epcis:xsd:1"
+					 xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+					 creationDate="2005-07-11T11:30:47.0Z" schemaVersion="1.2" xmlns:singapore="https://example.com">
+	<EPCISBody>
+		<EventList>
+			<ObjectEvent>
+				<eventTime>2005-04-04T20:33:31.116-06:00</eventTime>
+				<eventTimeZoneOffset>-06:00</eventTimeZoneOffset>
+				<epcList>
+					<!-- Asset: Bus Number 518 -->
+					<epc>urn:epc:id:giai:</epc>
+				</epcList>
+				<action>OBSERVE</action>
+				<bizStep>urn:epcglobal:cbv:bizstep:arriving</bizStep>
+				<readPoint>
+					<!-- location of bus stop -->
+					<id>urn:epc:id:sgln:0012345.11111.400</id>
+				</readPoint>
+				<singapore:EstimatedArrival>2019-11-20T10:50:00+08:00</singapore:EstimatedArrival>
+				<singapore:EstimatedArrival>2019-11-20T10:50:00+08:00</singapore:EstimatedArrival>
+				<singapore:EstimatedArrival>2019-11-20T10:50:00+08:00</singapore:EstimatedArrival>
+			</ObjectEvent>
+		</EventList>
+	</EPCISBody>
+</epcis:EPCISDocument>
