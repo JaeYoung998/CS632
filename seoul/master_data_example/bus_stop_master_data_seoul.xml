@@ -1,0 +1,1020 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE project>
+<ns0:EPCISMasterDataDocument xmlns:ns0="urn:epcglobal:epcis-masterdata:xsd:1" schemaVersion="1.0" creationDate="2019-12-08T23:42:00.0Z">
+    <EPCISBody>
+        <VocabularyList>
+        <Vocabulary type="urn:gs1:epcisapp:seoul:bus:stop:info">
+  <VocabularyElementList>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25341">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25341</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">강동공영차고지</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.174627</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.564251</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25317">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25317</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">강일리버파크6단지</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1754266</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5640279369</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25332">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25332</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">강일리버파크8단지</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1777180853</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5622718862</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25323">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25323</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">강일고등학교.강일리버파크7단지</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1784008104</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5647110133</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25335">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25335</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">강일리버파크5단지.4단지</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1774839621</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.567123716</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25321">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25321</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">강일리버파크2단지.4단지</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1765456511</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5686218353</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25336">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25336</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">강일리버파크1단지.3단지</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.173455307</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.567223417</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25319">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25319</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">강일동 주민센터</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1738099177</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5658847747</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25101">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25101</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">강동공영차고지</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.173806244</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5641553251</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25103">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25103</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">고덕리엔파크1단지</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1704714177</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5611595214</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25105">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25105</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">해뜨는주유소</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.170898532</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5590091865</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25131">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25131</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">상일동역4번출구.고덕전통시장</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1689485802</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5571105589</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25166">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25166</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">상일동역2번출구</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1654238958</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5571801903</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25167">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25167</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">고덕초등학교</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1657610712</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5601464808</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25169">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25169</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">고덕초등학교.고덕그라시움</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.16279594</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5603785827</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25171">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25171</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">광문고.서울컨벤션고</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1576291349</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5605856361</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25173">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25173</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">고덕아이파크아파트</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1541953974</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5597467476</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25175">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25175</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">명일중학교</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1487291657</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5582427163</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25288">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25288</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">서울장애인복지관</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.14888648</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5550804924</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25290">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25290</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">명일동신동아아파트</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1518429396</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5545613021</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25140">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25140</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">고덕역</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.155082036</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5549995292</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25178">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25178</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">강동아트센터.강동경희대병원</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1561087396</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5523444556</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25180">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25180</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">한영중고한영외고</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1559046378</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5478167271</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25182">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25182</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">길동자연생태공원</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1525922642</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.539039881</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25117">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25117</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">GS강동자이아파트.둔촌동프라자아파트</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1490315784</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5370016433</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25119">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25119</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">둔촌푸르지오아파트</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1440871447</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5349289499</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25121">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25121</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">서울양병원</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1411047974</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5339377401</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25244">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25244</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">혜림교회앞</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1373320955</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5313641488</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25246">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25246</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">둔촌동역4번출구</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1361248068</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5282558591</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25248">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25248</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">둔촌종합상가</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1343603166</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5235199059</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.24243">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">24243</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">보성중고등학교</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.133053251</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5200907421</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.24244">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">24244</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">올림픽공원역</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1308988886</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5167177922</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.24239">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">24239</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">올림픽공원장미광장</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.126375002</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5127209344</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.24240">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">24240</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">올림픽공원남2문</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1220284152</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.514502474</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.24233">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">24233</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">한성백제박물관</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1194168636</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5155044628</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.24241">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">24241</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">몽촌토성역.한성백제역</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.114529052</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.517188953</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.24510">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">24510</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">잠실4동주민센터.파크리오B상가</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1130777048</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5200420706</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.24124">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">24124</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">잠실파크리오아파트앞</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.109603</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.519532</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.24125">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">24125</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">잠실나루역</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1058907813</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5188856733</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.24130">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">24130</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">잠실중학교.장미종합상가</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.10066</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.51715</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.24138">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">24138</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">잠실역.롯데월드</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0979457604</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5128993133</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.24139">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">24139</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">잠실5단지</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0939144028</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5122132454</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.24141">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">24141</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">잠실새내역.잠실2동주민센터</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0872805398</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5117722886</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.24142">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">24142</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">잠실엘스아파트앞</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0833904794</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5118706155</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.24143">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">24143</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">종합운동장사거리</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0796916235</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.512009235</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.24144">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">24144</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">잠실종합운동장</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0720732937</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5111175337</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.23196">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">23196</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">강남경찰서면허시험장</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0657996068</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5099462683</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.23197">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">23197</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">삼성역7번출구</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0627189531</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5104082978</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.23190">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">23190</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">봉은사.코엑스북문</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0590150429</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5141416642</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.23210">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">23210</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">삼성중앙역.플래티넘아파트</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0515286905</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.512663758</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.23212">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">23212</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">삼성2문화센터</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0461375271</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5110917636</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.23137">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">23137</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">선정릉역1번출구.시니어플라자</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0430085461</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5101320385</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.23138">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">23138</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">아크로힐스논현</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.03975</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.509225</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.23143">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">23143</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">국민은행논현동지점</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0376591862</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5085797976</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.23144">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">23144</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">언주역4번출구.차병원사거리</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0350085415</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5077795338</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.23145">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">23145</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">언주역3번출구</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0335055792</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5084783232</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.23146">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">23146</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">논현고개</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0321076269</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5114460374</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.23115">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">23115</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">논현동사거리.학동역</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0296697218</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5138084599</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.23116">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">23116</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">영동시장</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0234688746</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5118508617</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.22191">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">22191</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">논현역</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0219545344</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5091091024</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.22192">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">22192</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">반포동</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.023498</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.505962</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.22172">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">22172</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">신논현역.구교보타워사거리</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0250021757</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5028878135</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.22173">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">22173</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">강남역</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0263182236</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.4999282515</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.22131">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">22131</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">수협서초지점</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.029385</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.493517</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.22132">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">22132</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">서초문화예술정보학교</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0320161779</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.4880209971</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.22289">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">22289</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">양재역</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0348614229</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.4832966004</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.22291">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">22291</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">일동제약사거리</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0382039618</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.4788621279</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.22273">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">22273</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">현대빌라.에코맘코리아</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0356382501</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.4761397871</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.22275">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">22275</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">우성아파트.양재초등학교</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0319550262</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.4745422778</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.22277">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">22277</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">코오롱아파트.양재1동주민센터</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0281898414</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.4723552457</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.22279">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">22279</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">우면주공아파트.우면한라아파트</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0256888887</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.4707123</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.22281">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">22281</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">서울시품질시험소한국교원단체총연합회</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.028006471</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.4674326438</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.22284">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">22284</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">성촌마을입구</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0252416636</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.465421093</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.22774">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">22774</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">삼성전자서울R앤D</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0237189452</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.4659306678</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.22372">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">22372</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">형촌마을입구(서초네이처힐1.2단지)</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0215240699</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.4635709526</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.22424">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">22424</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">네이처힐5단지</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0239827299</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.4632478825</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.22283">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">22283</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">네이처힐3.4단지</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0262568059</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.4653037278</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.22282">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">22282</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">서울시품질시험소한국교원단체총연합회</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0283840715</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.4674469714</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.22280">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">22280</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">우면주공아파트.양재1동주민센터</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0259375924</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.4706473659</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.22278">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">22278</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">우면코오롱아파트</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0280952447</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.4720372808</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.22276">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">22276</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">우성아파트.양재초등학교</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0330913969</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.4747384062</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.22274">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">22274</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">현대빌라.에코맘코리아</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0361957339</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.4762864979</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.22292">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">22292</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">일동제약사거리</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0386916193</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.4794972488</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.22290">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">22290</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">양재역</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0355331348</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.4833784009</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.23319">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">23319</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">뱅뱅사거리.구영동중학교</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.032807632</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.4877243166</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.23295">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">23295</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">역삼초등학교</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0306529668</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.492195273</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.23285">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">23285</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">강남역</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0269678944</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.4999348463</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.23286">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">23286</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">신논현역.구교보타워사거리</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0257902121</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.502359976</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.23122">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">23122</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">교보타워</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0241456343</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5057773025</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.23123">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">23123</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">영동시장논현역</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0220463814</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5102711129</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.23117">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">23117</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">영동시장</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0224777731</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5112644378</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.23118">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">23118</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">논현동사거리.학동역</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0301492658</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5135731512</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.23119">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">23119</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">논현동고개</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0323028097</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5102565309</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.23270">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">23270</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">언주역5번출구.차병원사거리</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0348624465</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5073948067</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.23273">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">23273</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">아크로힐스논현</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0406479555</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5091077534</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.23274">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">23274</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">선정릉역4번출구.시니어플라자</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0430848706</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5098268696</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.23213">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">23213</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">라마다서울호텔앞</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.046512905</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5108104729</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.23211">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">23211</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">삼성중앙역.플래티넘아파트</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0518271312</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5123779785</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.23191">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">23191</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">봉은사.코엑스북문</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.057639012</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5135467163</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.23198">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">23198</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">무역센터</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0609747705</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5119023351</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.23243">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">23243</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">강남경찰서.강남운전면허시험장</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0671559796</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5097831979</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.24154">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">24154</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">잠실종합운동장</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0728158016</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5104187252</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.24157">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">24157</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">종합운동장사거리</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0795554593</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5116128425</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.24158">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">24158</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">잠실새내역4번출구</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0844951326</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5114066648</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.24145">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">24145</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">잠실트리지움아파트앞</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.0912020656</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5115116112</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.24133">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">24133</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">잠실역</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.099443484</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5146065479</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.24131">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">24131</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">잠실중학교</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.100445</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.516785</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.24129">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">24129</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">잠실나루역</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.104432803</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5182652128</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.24126">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">24126</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">잠실진주아파트</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1092138338</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5191782081</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.24396">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">24396</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">몽촌토성역.한성백제역</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1134131446</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5168773481</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.24217">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">24217</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">올림픽베어스타운아파트앞</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1191035641</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5148280531</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.24221">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">24221</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">올림픽공원남2문</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1215535686</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5139722157</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.24222">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">24222</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">올림픽공원장미광장</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1249201549</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.512651295</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.24247">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">24247</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">올림픽선수촌아파트</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1292671379</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.513169256</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.24245">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">24245</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">올림픽공원역</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1314785378</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.516324269</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.24242">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">24242</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">보성중고등학교</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1338686425</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5205247236</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25249">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25249</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">둔촌종합상가</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1354690401</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5247612541</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25247">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25247</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">둔촌동역2번출구</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1365195932</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.52758769</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25245">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25245</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">동명약국앞</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1376566151</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5306302778</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25122">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25122</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">둔촌2동주민센터.서울양병원</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1420298404</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5336500824</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25120">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25120</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">둔촌푸르지오아파트</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1446715983</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5346425877</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25118">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25118</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">둔촌동프라자아파트.GS강동자이아파트</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1481811198</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5361025182</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25183">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25183</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">길동자연생태공원</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1530135068</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5391799069</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25181">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25181</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">한영중고한영외고</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1563257665</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5478756426</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25179">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25179</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">강동아트센터.강동경희대병원후문</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1565303438</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5509949599</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25139">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25139</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">고덕역</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1558492404</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5553730793</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25289">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25289</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">명일동신동아아파트</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1521751572</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5548510265</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25287">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25287</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">서울장애인복지관</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1490836595</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5552000891</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25176">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25176</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">명일중학교</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1488761534</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5584235613</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25174">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25174</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">고덕아이파크아파트</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1537814711</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5593688285</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25172">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25172</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">광문고.서울컨벤션고</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1565150315</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5604492511</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25170">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25170</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">고덕초등학교.고덕그라시움</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1631520986</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5601960704</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25168">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25168</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">고덕초등학교</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1657689094</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5599831421</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25165">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25165</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">상일동역2번출구</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1651251793</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5573380664</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25132">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25132</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">상일동역5번출구.고덕전통시장</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1691449801</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.5569040555</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25106">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25106</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">해뜨는주유소</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.170989</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.559757</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25104">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25104</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">고덕리엔파크1단지</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.170696</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.561365</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25318">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25318</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">강일동주민센터</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.173929</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.566015</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25337">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25337</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">강일리버파크3단지.1단지</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.174408</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.568207</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25320">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25320</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">강일리버파크4단지.2단지</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.176556</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.568441</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25334">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25334</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">강일리버파크4단지.5단지</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.177374</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.56656</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25322">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25322</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">강일고등학교.강일리버파크7단지</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.177918</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.565067</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25333">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25333</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">강일리버파크8단지</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.177967</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.562648</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+    <VocabularyElement id="urn:epc:id:sgln:880002695.102.25324">
+      <attribute id="urn:gs1:epcisapp:bis:stop:id">25324</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:stopname">강일리버파크6단지</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:longitude">127.1761905119</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:latitude">37.562992346</attribute>
+      <attribute id="urn:gs1:epcisapp:bis:stop:buslines">["urn:epc:id:gsrn:880002695.101.3412"]</attribute>
+    </VocabularyElement>
+
+  </VocabularyElementList>
+</Vocabulary></VocabularyList>
+    </EPCISBody>
+</ns0:EPCISMasterDataDocument>

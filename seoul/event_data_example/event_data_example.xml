@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE project>
+<epcis:EPCISDocument xmlns:epcis="urn:epcglobal:epcis:xsd:1" xmlns:arrival="http://ns.example.com/epcis"
+     creationDate="2005-07-11T11:30:47.0Z" schemaVersion="1.2">
+     <EPCISBody>
+         <EventList>
+             <ObjectEvent>
+                <eventTime>2019-11-14T02:23:29.282+09:00</eventTime>
+                <eventTimeZoneOffset>+09:00</eventTimeZoneOffset>
+                <epcList>
+                    <epc>urn:epc:id:sgln:880002695.124.121000091</epc>
+                </epcList>
+                <action>OBSERVE</action>
+                <bizStep>urn:gs1:epcisapp:bus:btt:arriving</bizStep>
+                <arrival:stopID>1539</arrival:stopID>
+                <arrival:stopName>Gangnam</arrival:stopName>
+                <arrival:lineID>31</arrival:lineID>
+                <arrival:estimatedTime>3</arrival:estimatedTime>
+             </ObjectEvent>
+         </EventList>
+     </EPCISBody>
+</epcis:EPCISDocument>
