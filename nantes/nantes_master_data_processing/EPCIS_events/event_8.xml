@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf8'?>
+<epcis:EPCISDocument creationDate="2019-12-10T18:33:46" schemaVersion="1.2" xmlns:epcis="urn:epcglobal:epcis:xsd:1" xmlns:example="http://ns.example.com/epcis" xmlns:incident="http://13.53.171.124:8080/epcis" xmlns:nantes="https://example.com" xmlns:p="http://www.unece.org/cefact/namespaces/StandardBusinessDocumentHeader" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><EPCISBody><EventList><ObjectEvent><eventTime>2019-12-10T09:33:00.127Z</eventTime><eventTimeZoneOffset>+00:00</eventTimeZoneOffset><epcList><epc>urn:ecp:id:gsrn:88002692.100.158</epc><epc>urn:ecp:id:gsrn:88002692.100.E8</epc><epc>urn:ecp:id:gsrn:88002692.100.78</epc></epcList><action>OBSERVE</action><incident:startTime>2019-11-24T09:00.000Z</incident:startTime><incident:endTime>2019-12-20T17:00.000Z</incident:endTime><incident:eventInfo>En raison de travaux rue du Chat-qui-Guette à Saint-Jean-de-Boiseau, les lignes 78 et E8 (et ligne scolaire 158) sont déviées entre les arrêts Stade et La Montagne du lundi 25 novembre au vendredi 20 décembre 2019, uniquement la semaine de 9h à 17h (le parcours est normal les week-ends).
+
+ 
+
+Où prendre votre bus :
+
+En direction du Bac Pellerin (78), du Pellerin (E8) et du Clos Roux (LS 158)
+- Arrêts Stade et Vieux Four reportés à l'arrêt proivsoire placé rue de la Croix Truin
+- Arrêts Briandière et Chat qui Guette reportés à l'arrêt La Montagne
+
+En direction de Neustrie (E8), Greneraie (78) et Lycée d'Orbigny (LS 158)
+- Arrêt Vieux Four reporté à l'arrêt Stade
+- Arrêts Briandière et Chat qui Guette reportées à l'arrêt La Montagne
+
+19/958</incident:eventInfo><incident:concernedStops><id>urn:ecp:id:sgln:88002692.101.VFOU</id><id>urn:ecp:id:sgln:88002692.101.STBS</id><id>urn:ecp:id:sgln:88002692.101.CQGU</id><id>urn:ecp:id:sgln:88002692.101.BRDI</id></incident:concernedStops></ObjectEvent></EventList></EPCISBody></epcis:EPCISDocument>

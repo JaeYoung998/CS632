@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE project>
+<epcismd:EPCISMasterDataDocument
+	xmlns:epcismd="urn:epcglobal:epcis-masterdata:xsd:1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	schemaVersion="1.0" creationDate="2019-12-08T23:42:00.0Z">
+    <EPCISBody>
+        <VocabularyList>
+        </VocabularyList>
+    </EPCISBody>
+</epcismd:EPCISMasterDataDocument>

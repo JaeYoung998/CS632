@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf8'?>
+<epcis:EPCISDocument creationDate="2019-12-10T18:33:46" schemaVersion="1.2" xmlns:epcis="urn:epcglobal:epcis:xsd:1" xmlns:example="http://ns.example.com/epcis" xmlns:incident="http://13.53.171.124:8080/epcis" xmlns:nantes="https://example.com" xmlns:p="http://www.unece.org/cefact/namespaces/StandardBusinessDocumentHeader" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><EPCISBody><EventList><ObjectEvent><eventTime>2019-12-10T09:33:00.127Z</eventTime><eventTimeZoneOffset>+00:00</eventTimeZoneOffset><epcList><epc>urn:ecp:id:gsrn:88002692.100.C1</epc></epcList><action>OBSERVE</action><incident:startTime>2019-12-09T09:30.000Z</incident:startTime><incident:endTime>2019-12-10T16:30.000Z</incident:endTime><incident:eventInfo>En raison de travaux rue du Maréchal Joffre à Nantes, la ligne C1 est déviée, vers Gare de Chantenay, entre Desaix et Foch-Cathédrale les lundi 9 et mardi 10 décembre 2019 de 9h30 à 16h30.
+
+ 
+
+Où prendre votre bus :
+
+En direction de Gare Chantenay 
+- Arrêts Chanzy et St Clément reportés à l'arrêt provisoire reporté à l'avenue de Chanzy
+
+En direction de Haluchère-Batignolles 
+- Parcours normal
+
+19/985</incident:eventInfo><incident:concernedStops><id>urn:ecp:id:sgln:88002692.101.CHZY</id><id>urn:ecp:id:sgln:88002692.101.SCLE</id></incident:concernedStops></ObjectEvent></EventList></EPCISBody></epcis:EPCISDocument>

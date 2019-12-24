@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+<epcis:EPCISDocument creationDate="2019-12-10T18:33:42" schemaVersion="1.2" xmlns:epcis="urn:epcglobal:epcis:xsd:1" xmlns:example="http://ns.example.com/epcis" xmlns:incident="http://13.53.171.124:8080/epcis" xmlns:nantes="https://example.com" xmlns:p="http://www.unece.org/cefact/namespaces/StandardBusinessDocumentHeader" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><EPCISBody><EventList><ObjectEvent><eventTime>2019-12-10T09:33:00.127Z</eventTime><eventTimeZoneOffset>+00:00</eventTimeZoneOffset><epcList><epc>urn:ecp:id:gsrn:88002692.100.LO</epc><epc>urn:ecp:id:gsrn:88002692.100.12</epc></epcList><action>OBSERVE</action><incident:startTime>2019-11-12T05:00.000Z</incident:startTime><incident:endTime>2020-01-31T23:00.000Z</incident:endTime><incident:eventInfo>En raison de travaux rue Hector Berlioz à Nantes :
+- la ligne 12 est déviée, dans les deux sens, entre les arrêts Rennes Longchamp et Beauséjour 
+_ la Luciole Ouest est déviée, en direction du Hangar à Bananes, entre les arrêts Beauséjour et Américains
+du mardi 12 novembre 2019 au vendredi 31 janvier 2020.
+
+ 
+
+Où prendre votre bus :
+
+Ligne 12, en direction de Beauséjour :
+- Arrêt Berlioz reporté à Rennes Longchamp
+- Arrêt Diane reporté à l'arrêt provisoire placé au croisement de la rue de la Gaudinière et du Bd de Longchamp
+- Arrêts Beauséjour (rue Grootaers) et Grootaers non desservis
+
+ligne 12, en direction de Jules Verne :
+- Arrêts Beauséjour et Grootaers reportés à la station Beauséjour, sous la trémie
+- Arrêt Diane reporté à l'arrêt provisoire placé au croisement de la rue de la Gaudinière et du Bd de Longchamp
+- Arrêts Berlioz et Rennes Longchamp reportés à l'arrêt provisoire placé Bd de Longchamp
+ 
+
+Luciole, vers Hangar à Bananes :
+- Arrêts Beauséjour et Grootaers reportés à l'arrêt Courteline
+- Arrêt Diane reporté à l'arrêt provisoire placé au croisement de la rue de la Gaudinière et du Bd de Longchamp
+- Arrêts Berlioz et Rennes Longchamp reportés à l'arrêt provisoire placé Bd de Longchamp
+
+19/929 - 19/942</incident:eventInfo><incident:concernedStops><id>urn:ecp:id:sgln:88002692.101.BSEJ</id><id>urn:ecp:id:sgln:88002692.101.BSE1</id><id>urn:ecp:id:sgln:88002692.101.RLON</id><id>urn:ecp:id:sgln:88002692.101.BLZZ</id><id>urn:ecp:id:sgln:88002692.101.AMER</id><id>urn:ecp:id:sgln:88002692.101.GTAE</id></incident:concernedStops></ObjectEvent></EventList></EPCISBody></epcis:EPCISDocument>

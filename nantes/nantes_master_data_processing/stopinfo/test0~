@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8">
+<Vocabulary type="urn:gs1:epcisapp:nantes:bus:stop:info">
+  <VocabularyElementList>
+    <attribute id="urn:gs1:ecpisapp:BIS:stopid">ABCH</attribute>
+    <attribute id="urn:gs1:ecpisapp:BIS:stopname">"Abb챕 Ch챕rel"</attribute>
+    <attribute id="urn:gs1:ecpisapp:BIS:latitude">47.21011924</attribute>
+    <attribute id="urn:gs1:ecpisapp:BIS:longitude">-1.65169222</attribute>
+    <attribute id="urn:gs1:ecpisapp:BIS:locationtype">1</attribute>
+    <attribute id="urn:gs1:ecpisapp:BIS:parentstation">NA</attribute>
+    <attribute id="urn:gs1:ecpisapp:BIS:wheelchairboarding">NA</attribute>
+  </VocabularyElementList>
+</Vocabulary>

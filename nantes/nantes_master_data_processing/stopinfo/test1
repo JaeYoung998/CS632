@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8">
+<Vocabulary type="urn:gs1:epcisapp:nantes:bus:stop:info">
+  <VocabularyElementList>
+    <attribute id="urn:gs1:ecpisapp:BIS:stopid">ABDU</attribute>
+    <attribute id="urn:gs1:ecpisapp:BIS:stopname">"Abel Durand"</attribute>
+    <attribute id="urn:gs1:ecpisapp:BIS:latitude">47.22007197</attribute>
+    <attribute id="urn:gs1:ecpisapp:BIS:longitude">-1.60325398</attribute>
+    <attribute id="urn:gs1:ecpisapp:BIS:locationtype">1</attribute>
+    <attribute id="urn:gs1:ecpisapp:BIS:parentstation">NA</attribute>
+    <attribute id="urn:gs1:ecpisapp:BIS:wheelchairboarding">NA</attribute>
+  </VocabularyElementList>
+</Vocabulary>

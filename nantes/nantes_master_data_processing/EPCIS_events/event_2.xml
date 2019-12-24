@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf8'?>
+<epcis:EPCISDocument creationDate="2019-12-10T18:33:42" schemaVersion="1.2" xmlns:epcis="urn:epcglobal:epcis:xsd:1" xmlns:example="http://ns.example.com/epcis" xmlns:incident="http://13.53.171.124:8080/epcis" xmlns:nantes="https://example.com" xmlns:p="http://www.unece.org/cefact/namespaces/StandardBusinessDocumentHeader" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><EPCISBody><EventList><ObjectEvent><eventTime>2019-12-10T09:33:00.127Z</eventTime><eventTimeZoneOffset>+00:00</eventTimeZoneOffset><epcList><epc>urn:ecp:id:gsrn:88002692.100.98</epc><epc>urn:ecp:id:gsrn:88002692.100.68</epc></epcList><action>OBSERVE</action><incident:startTime>2019-11-12T05:00.000Z</incident:startTime><incident:endTime>2019-12-21T01:00.000Z</incident:endTime><incident:eventInfo>En raison de travaux rue du Pressoir à St Aignan de Grand Lieu, les lignes 68 et 98 ne circulent pas entre les arrêts Jahardières et Saint Aignan de Grand Lieu, du mardi 12 novembre au vendredi 20 décembre 2019.
+ 
+En direction de St Aignan de Grand Lieu :- Arrêts Pressoir et St Aignan de Grand Lieu non desservis
+En direction de Brains/Gréneraie :- Arrêts St Aignan et Pressoir reporté à l'arrêt Jahardières
+ 
+19/896</incident:eventInfo><incident:concernedStops><id>urn:ecp:id:sgln:88002692.101.SAGL</id><id>urn:ecp:id:sgln:88002692.101.PRSS</id></incident:concernedStops></ObjectEvent></EventList></EPCISBody></epcis:EPCISDocument>

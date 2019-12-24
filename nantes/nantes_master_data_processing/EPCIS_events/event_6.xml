@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf8'?>
+<epcis:EPCISDocument creationDate="2019-12-10T18:33:44" schemaVersion="1.2" xmlns:epcis="urn:epcglobal:epcis:xsd:1" xmlns:example="http://ns.example.com/epcis" xmlns:incident="http://13.53.171.124:8080/epcis" xmlns:nantes="https://example.com" xmlns:p="http://www.unece.org/cefact/namespaces/StandardBusinessDocumentHeader" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><EPCISBody><EventList><ObjectEvent><eventTime>2019-12-10T09:33:00.127Z</eventTime><eventTimeZoneOffset>+00:00</eventTimeZoneOffset><epcList><epc>urn:ecp:id:gsrn:88002692.100.59</epc></epcList><action>OBSERVE</action><incident:startTime>2019-10-21T15:31.000Z</incident:startTime><incident:eventInfo>En raison de travaux secteur Bout des Landes, ligne 59 déviée uniquement vers Bout des Landes entre Les Roches et Bout des Landes à partir du lundi 21 octobre
+
+ 
+
+Où prendre votre bus :
+
+En direction de Bout des Landes :
+- Arrêt Aurore non desservi
+
+En direction de MF Bellevue :
+- Parcours normal
+
+ 
+
+19/885</incident:eventInfo><incident:concernedStops>NA</incident:concernedStops></ObjectEvent></EventList></EPCISBody></epcis:EPCISDocument>
